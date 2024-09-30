@@ -1,6 +1,8 @@
 # Assignment 4: Good vs. Bad Visualization with Movie Dataset
 **Due Date:** October 22nd, 11:59 PM
 
+[Link to Assignment on GitHub](https://github.com/SIAT-IAT-355/A4-Good-Bad-Vis)
+
 ## Objective
 In this assignment, you will explore the concepts of good and bad data visualizations. You will find, analyze, and transform visualizations, followed by creating your own visualizations using the provided movie dataset. The goal is to understand what makes a visualization effective and how poor design choices can lead to misinterpretation.
 
