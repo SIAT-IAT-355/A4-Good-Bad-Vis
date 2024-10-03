@@ -26,7 +26,7 @@ In this assignment, you will explore the concepts of good and bad data visualiza
 
 ### 2. Find One Bad Visualization and Turn It into a Good One
 
-- Find an example of a **bad** data visualization from any public source for exampple [Data Is Ugly Reddit](https://www.reddit.com/r/dataisugly/). Include the source of where you found the vis and explain why it is bad.
+- Find an example of a **bad** data visualization from any public source for example [Data Is Ugly Reddit](https://www.reddit.com/r/dataisugly/). Look into youtube journalism accounts, many of them will have vis. Include the source of where you found the vis. Most of the places you find bad vis, already will have explanations on why a vis is bad. But you are an expert now, so your description should reflect your expetrise in visualization.
 - Include a **screenshot** of this visualization in your report and write a brief analysis explaining:
 
   - Why it’s ineffective or misleading.
