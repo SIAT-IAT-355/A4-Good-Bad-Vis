@@ -1,4 +1,4 @@
-# Assignment 4: Good vs. Bad Visualization with Movie Dataset
+# Assignment 4: Good vs. Bad Visualization
 
 **Due Date:** October 22nd, 11:59 PM
 
