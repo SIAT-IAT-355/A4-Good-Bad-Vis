@@ -1,6 +1,6 @@
 # Assignment 4: Good vs. Bad Visualization
 
-**Due Date:** October 23nd, 11:59 PM
+**Due Date:** October 25th, 11:59 PM
 
 [Link to Assignment on GitHub](https://github.com/SIAT-IAT-355/A4-Good-Bad-Vis)
 
